@@ -1,2 +1,2 @@
-# Pi_Cluster
+# Project Alpha
 Raspberry Pi Clustering
